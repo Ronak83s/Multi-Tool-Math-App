@@ -1,9 +1,10 @@
 # Multi-Tool-Math-App
 
  <div>
-        <img src="/Screenshot/Screenshot.png" alt="">
+        <img src="/Screenshots/Screenshot.png" alt="">
     </div>
 
 <br>
+
 ### License
 [MIT License](LICENSE)
